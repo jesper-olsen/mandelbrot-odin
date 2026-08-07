@@ -14,18 +14,19 @@ Single Thread/Multi-thread shows the number of seconds it takes to do a 5000x500
 | Language    | Repository                                                         | Single Thread   | Multi-Thread |
 | :--------   | :----------------------------------------------------------------- | ---------------:| -----------: |
 | Awk         | [mandelbrot-awk](https://github.com/jesper-olsen/mandelbrot-awk)   |                 |              |
-| **C**       | [mandelbrot-c](https://github.com/jesper-olsen/mandelbrot-c)       |             3.6 |          0.6 |
+| C           | [mandelbrot-c](https://github.com/jesper-olsen/mandelbrot-c)       |             3.6 |          0.6 |
 | **Odin**    | [mandelbrot-odin](https://github.com/jesper-olsen/mandelbrot-odin) |             4.4 |              |
 | Erlang      | [mandelbrot_erl](https://github.com/jesper-olsen/mandelbrot_erl)   |                 |              |
 | Fortran     | [mandelbrot-f](https://github.com/jesper-olsen/mandelbrot-f)       |                 |              |
 | Lua         | [mandelbrot-lua](https://github.com/jesper-olsen/mandelbrot-lua)   |                 |              |
-| Mojo        | [mandelbrot-mojo](https://github.com/jesper-olsen/mandelbrot-mojo) |                 |              |
+| Mojo        | [mandelbrot-mojo](https://github.com/jesper-olsen/mandelbrot-mojo) |             3.8 |          1.2 |  
 | Nushell     | [mandelbrot-nu](https://github.com/jesper-olsen/mandelbrot-nu)     |                 |              |
 | Python      | [mandelbrot-py](https://github.com/jesper-olsen/mandelbrot-py)     |                 | (jax)        |
 | R           | [mandelbrot-R](https://github.com/jesper-olsen/mandelbrot-R)       |                 |              |
 | Rust        | [mandelbrot-rs](https://github.com/jesper-olsen/mandelbrot-rs)     |             4.6 |          1.3 |
 | Tcl         | [mandelbrot-tcl](https://github.com/jesper-olsen/mandelbrot-tcl)   |                 |              |
 | Zig         | [mandelbrot-zig](https://github.com/jesper-olsen/mandelbrot-zig)   |                 |              |
+
 
 
 
